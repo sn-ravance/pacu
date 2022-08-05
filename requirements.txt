@@ -14,7 +14,7 @@ dsnap
 idna
 inquirer
 jinxed
-jmespathpython_version
+jmespath
 mypy-extensions
 pyasn1
 python-dateutil
