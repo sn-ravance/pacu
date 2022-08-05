@@ -44,5 +44,5 @@ install_pip_requirements() {
     fi
 }
 
-check_python_version
+#check_python_version
 install_pip_requirements
